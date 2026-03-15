@@ -28,7 +28,7 @@ to{stroke-dashoffset:-160;}
 <path class="wave blue"
 d="
 M0 100
-Q50 40 100 100
+Q50 40 70 100
 T200 100
 T300 100
 T400 100
@@ -42,7 +42,7 @@ T800 100
 <path class="wave red"
 d="
 M0 100
-Q50 150 100 100
+Q50 160 100 100
 T200 100
 T300 100
 T400 100
