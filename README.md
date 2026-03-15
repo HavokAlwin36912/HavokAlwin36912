@@ -9,3 +9,13 @@
 </p>
 
 
+
+An ECE Undergraduate with a strong interest in **RF systems**, **beamforming**, and **software-defined radio (SDR)**.
+
+I enjoy building and experimenting with **wireless communication systems**, working hands-on with SDR platforms and RF instrumentation to explore how signals behave in real environments.
+
+Currently exploring deeper topics in **array processing**, **wireless systems**, and **RF instrumentation**.
+
+<p align="center">
+  <img src="Banner.svg" width="100%" alt="Radar & Sensing — RF Engineer"/>
+</p>
