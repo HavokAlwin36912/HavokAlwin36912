@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Banner.svg" width="100%" alt="Radar & Sensing — RF Engineer"/>
+  <img src="Banner.svg" width="100%">
 </p>
 
 
@@ -16,5 +16,5 @@ I enjoy building and experimenting with **wireless communication systems**, work
 Currently exploring deeper topics in ***array processing***, ***wireless systems***, and ***RF instrumentation***.
 
 <p align="center">
-  <img src="Banner.svg" width="100%" alt="Radar & Sensing — RF Engineer"/>
+  <img src="Banner.svg" width="100%">
 </p>
